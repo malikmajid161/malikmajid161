@@ -85,7 +85,6 @@ Contact     : malikmajid5140@gmail.com
 </td></tr>
 </table>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" />
 
 ---
@@ -126,21 +125,20 @@ Contact     : malikmajid5140@gmail.com
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/><br><sub><b>Linux</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45"/><br><sub><b>Postman</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45"/><br><sub><b>Selenium</b></sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br><sub><b>HTML5</b></sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/><br><sub><b>Figma</b></sub></td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br><sub><b>C++</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/><br><sub><b>VS Code</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="45" height="45"/><br><sub><b>Kaggle</b></sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/><br><sub><b>GCP / Colab</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/><br><sub><b>GCP/Colab</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45" height="45"/><br><sub><b>Vercel</b></sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/><br><sub><b>Tailwind</b></sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/><br><sub><b>Figma</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/><br><sub><b>CSS3</b></sub></td>
   </tr>
 </table>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
 ---
@@ -173,16 +171,6 @@ Contact     : malikmajid5140@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajid161&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=10" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff" width="100%" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -191,22 +179,40 @@ Contact     : malikmajid5140@gmail.com
   <img src="https://github-profile-trophy.vercel.app/?username=malikmajid161&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" />
 </p>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
+<!-- 1. Full-width activity graph -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malikmajid161/malikmajid161/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malikmajid161/malikmajid161/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/malikmajid161/malikmajid161/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </p>
 
-<!-- ANIMATED DIVIDER -->
+<!-- 2. Contribution heatmap in teal -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/64ffda/malikmajid161" width="100%" alt="Contribution Heatmap" />
+</p>
+
+<!-- 3. 3D isometric contribution calendar -->
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area_color=64ffda&area=true&hide_border=true" width="100%" alt="3D Contribution Calendar" />
+</p>
+
+<!-- 4. GitHub profile summary cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikmajid161&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikmajid161&theme=tokyonight" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikmajid161&theme=tokyonight" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikmajid161&theme=tokyonight&utcOffset=5" width="32%" />
+</p>
+
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" />
 
 ---
