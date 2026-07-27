@@ -116,10 +116,6 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/64ffda/malikmajid161" width="100%" alt="Contribution Heatmap" />
-</p>
-
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/malikmajid161/malikmajid161/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
