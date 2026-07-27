@@ -13,9 +13,9 @@
   <em>「 BS AI Student building real AI solutions — from crop disease detection to job automation 」</em>
 </p>
 
-<!-- TYPING SVG — demolab is reliable -->
+<!-- TYPING SVG — Herokuapp endpoint with clean encoding -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=800&height=45&lines=🌾+AgroConnect+—+AI+AgriTech+for+Pakistani+Farmers;🤖+YOLOv8+%7C+FastAPI+%7C+React+%7C+Flutter+Developer;🧠+Deep+Learning+%7C+Computer+Vision+%7C+LLM+Engineer;🛡️+Network+Intrusion+Detection+%7C+AI+Security;⚡+Fiverr+Level+2+Freelancer+%7C+AI+%26+CAD+Expert;🚀+COMSATS+Wah+Campus+%7C+BS+AI+2023-27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=800&height=45&lines=AgroConnect+--+AI+AgriTech+for+Pakistani+Farmers;YOLOv8+%7C+FastAPI+%7C+React+%7C+Flutter+Developer;Deep+Learning+%7C+Computer+Vision+%7C+LLM+Engineer;Network+Intrusion+Detection+%7C+AI+Security;Fiverr+Level+2+Freelancer+%7C+AI+%26+CAD+Expert;COMSATS+Wah+Campus+%7C+BS+AI+2023-27" alt="Typing SVG" />
 </p>
 
 <!-- RELIABLE ANIMATED DIVIDER — capsule render slice -->
