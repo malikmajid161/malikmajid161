@@ -184,11 +184,6 @@ I'm open to collaborating on:
   <em>⚡ Building real-world AI for real-world problems — Star ⭐ my repos if they helped you!</em>
 </p>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malikmajid161/malikmajid161/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
-
 <!-- INNOVATIVE ANIMATED FOOTER BANNER -->
 <p align="center">
   <img src="./assets/footer_banner.svg" alt="Footer Banner" width="100%" />
