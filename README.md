@@ -139,21 +139,15 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=malikmajid161&show_icons=true&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=malikmajid161&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajid161&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/64ffda/malikmajid161" width="100%" alt="Contribution Heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malikmajid161&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" />
 </p>
 
 ---
