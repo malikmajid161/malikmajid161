@@ -6,12 +6,12 @@
 </h3>
 
 <p align="center">
-  <em>「 BS AI Student building real-world AI systems — Computer Vision, Full-Stack AI & Intelligent Automation 」</em>
+  <em>「 BS AI Student & Engineer — Computer Vision, Full-Stack AI, MATLAB Simulations & Automation 」</em>
 </p>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=800&height=45&lines=AgroConnect+--+AI+AgriTech+for+Pakistani+Farmers;YOLOv8+%7C+FastAPI+%7C+React+%7C+Flutter+Developer;Deep+Learning+%7C+Computer+Vision+%7C+LLM+Engineer;Network+Intrusion+Detection+%7C+AI+Security;Fiverr+Level+2+Freelancer+%7C+AI+%26+CAD+Expert;COMSATS+Wah+Campus+%7C+BS+AI+2023-27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=800&height=45&lines=YOLOv8+%7C+PyTorch+%7C+FastAPI+%7C+React+%7C+Flutter;Deep+Learning+%7C+Computer+Vision+%7C+LLM+Engineer;MATLAB+Simulations+%7C+Signal+Processing+%7C+Control+Systems;Network+Intrusion+Detection+%7C+AI+Security;Fiverr+Level+2+Freelancer+%7C+AI+%26+CAD+Expert;COMSATS+Wah+Campus+%7C+BS+AI+2023-27" alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
@@ -31,108 +31,82 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & Engineering Focus
 
 ```yaml
 Name        : Muhammad Majid Ali
 Degree      : BS Artificial Intelligence — COMSATS University Islamabad, Wah Campus (2023–27)
 Location    : Wah Cantt, Punjab, Pakistan 🇵🇰
-Freelance   : Fiverr Level 2 — AI/Full-Stack Dev & Civil Engineering CAD Drafting
-Currently   : Building AgroConnect — AI AgriTech Platform for Pakistani Farmers 🌾
-Learning    : LangChain · LangGraph · MLOps · Deep Learning · LLM Integration
-Ask me about: Python · YOLOv8 · FastAPI · React · Flutter · AutoCAD · Revit
-Fun Fact    : I detect crop diseases with AI AND draft civil engineering blueprints!
+Interests   : Computer Vision · Deep Learning · MATLAB Simulations · Full-Stack AI · Automation
+Freelance   : Fiverr Level 2 — AI Systems, Web Apps & Engineering CAD Drafting
+Core Stack  : Python · PyTorch · YOLOv8 · MATLAB · FastAPI · React · Flutter · AutoCAD · Revit
 Contact     : malikmajid5140@gmail.com
 Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ```
 
 ---
 
-## 🌾 Flagship Project — AgroConnect
+## 🛠️ Technologies & Engineering Toolkit
 
-> *AI-Powered AgriTech Platform for Pakistani Farmers*
-
-<table>
-<tr><td width="55%" valign="top">
-
-**Core Features:**
-- 🔬 **Disease Detection** — YOLOv8 trained on merged PlantVillage + Wheat dataset
-- 🌿 **Multi-Crop Support** — Unified 14 PlantVillage crops + Wheat disease classes
-- ⚡ **FastAPI Backend** — High-speed `/predict`, `/health`, `/classes` endpoints with Pydantic validation
-- 🎨 **Animated React UI** — Drag-and-drop uploads, real-time scanning animation & top-5 confidence meters
-- 🏋️ **Colab Pipeline** — 30 epochs training on merged Kaggle datasets (YOLOv8s-cls)
-
-**Tech Stack:** `Python` · `YOLOv8` · `FastAPI` · `React` · `TailwindCSS` · `Framer Motion`
-
-🔗 **[View Repository →](https://github.com/malikmajid161/AgroConnect)**
-
-</td><td width="45%" valign="top">
-
-```
-📁 AgroConnect/
-├── 🐍 backend/
-│   ├── main.py      ← FastAPI + CORS
-│   ├── model.py     ← YOLOv8 wrapper
-│   └── schemas.py   ← Pydantic schemas
-├── ⚛️ frontend/
-│   ├── App.jsx      ← Animated Dashboard UI
-│   └── predict.js   ← API Layer
-└── 🤖 model/
-    ├── train.ipynb  ← Google Colab notebook
-    └── best.pt      ← Fine-tuned model weights
-```
-
-</td></tr>
-</table>
-
----
-
-## 🛠️ Technologies & Skills
-
-<!-- AI & Data Science -->
+<!-- AI, Deep Learning & Scientific Computing -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,bash,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,opencv,sklearn,bash&theme=dark" />
 </p>
 
-<!-- Backend & Web -->
+<!-- Backend & API Architecture -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django,graphql,nginx&theme=dark" />
 </p>
 
-<!-- Frontend & Languages -->
+<!-- Frontend & Web Applications -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
 </p>
 
-<!-- Mobile & Databases -->
+<!-- Mobile & Database Systems -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,mongodb,postgres,sqlite&theme=dark" />
 </p>
 
-<!-- DevOps & Tools -->
+<!-- DevOps, Engineering & CAD Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,selenium,vscode,figma&theme=dark" />
-</p>
-
-<!-- Cloud & Engineering -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,github,cpp,kotlin,matlab,autocad&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,selenium,autocad,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects Showcase
 
-| Project | Key Stack | Description | Repository |
+### 🧠 Computer Vision & AI Systems
+
+| Project | Key Tech Stack | Description | Repository |
 |---|---|---|---|
-| 🌾 **AgroConnect** | YOLOv8 · FastAPI · React | AI crop disease detection platform for farmers | [![Repo](https://img.shields.io/badge/GitHub-AgroConnect-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/AgroConnect) |
-| 💰 **Expense Tracker** | Flutter · Supabase | Cross-platform personal finance & budget manager | [![Repo](https://img.shields.io/badge/GitHub-Expense--Tracker-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/Expense-tracker) |
-| 🤖 **AutoApply AI** | Flask · Claude API · Selenium | Full automated job application platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🛡️ **NIDS AetherGuard** | PyTorch · FastAPI · NSL-KDD | Network intrusion detection ML system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🚗 **Lane Detection AI** | UNet · OpenCV · PyTorch | Autonomous driving lane detection pipeline | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🅿️ **Parking Monitor** | YOLOv8 · Flask · SocketIO | Real-time parking space occupancy monitor | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 📚 **LibMaster** | Flutter · Hive | Offline digital library management system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🏗️ **Optimill** | TypeScript · Next.js | B2B business optimization platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🌾 **AgroConnect** | YOLOv8 · FastAPI · React · Colab | End-to-end multi-crop disease detection platform with 15+ crop classes | [![Repo](https://img.shields.io/badge/GitHub-AgroConnect-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/AgroConnect) |
+| 🛡️ **NIDS AetherGuard** | PyTorch · FastAPI · NSL-KDD | Real-time network intrusion detection system classifying cyber threats | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🚗 **Lane Detection AI** | UNet · OpenCV · PyTorch | Autonomous driving lane perception pipeline with real-time video processing | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🎯 **Weapon Detection** | YOLOv8 · Streamlit · PyTorch | AI threat monitoring system for real-time security surveillance | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 😴 **DrowsyGuard** | OpenCV · Python · MediaPipe | Real-time driver drowsiness detection with audio alarm alerts | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🅿️ **Parking Monitor** | YOLOv8 · Flask · SocketIO | Real-time parking space occupancy monitor & tracking system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+
+<br/>
+
+### 📐 MATLAB & Engineering Simulations
+
+| Project | Key Tech Stack | Description | Repository |
+|---|---|---|---|
+| 📐 **MATLAB Signal Suite** | MATLAB · Simulink | Signal processing, filter design, & system control simulations | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🏗️ **Engineering CAD & AI** | MATLAB · AutoCAD · Revit | Structural design automation & civil engineering analysis models | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+
+<br/>
+
+### 🤖 Intelligent Automation & Full-Stack Apps
+
+| Project | Key Tech Stack | Description | Repository |
+|---|---|---|---|
+| 🤖 **AutoApply AI** | Flask · Claude API · Selenium | Automated multi-source job search & application automation tool | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 💰 **Expense Tracker** | Flutter · Supabase · Dart | Cross-platform personal finance manager with expense analytics | [![Repo](https://img.shields.io/badge/GitHub-Expense--Tracker-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/Expense-tracker) |
+| 📚 **LibMaster** | Flutter · Hive · Dart | Offline digital library & book inventory management system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🏬 **Optimill** | TypeScript · Next.js | B2B business optimization platform with modern UI/UX | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
 
 ---
 
@@ -156,10 +130,10 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ## 🤝 Collaboration & Contact
 
 I'm open to collaborating on:
-- 🌾 AI/ML web apps & AgriTech solutions
-- 🤖 Computer Vision & YOLOv8 pipelines
-- 🧠 LLM integration & automation systems
-- 📱 Full-stack & Flutter mobile apps
+- 🌾 AI/ML solutions & Computer Vision models
+- 📐 MATLAB engineering simulations & signal processing
+- 🤖 LLM integration & process automation tools
+- 📱 Full-Stack AI web apps & Flutter mobile apps
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadmajidali">
