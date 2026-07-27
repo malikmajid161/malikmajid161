@@ -183,6 +183,3 @@ I'm open to collaborating on:
 <p align="center">
   <em>⚡ Building real-world AI for real-world problems — Star ⭐ my repos if they helped you!</em>
 </p>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:112240,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting%20✨&fontSize=18&fontColor=64ffda&animation=fadeIn&fontAlignY=65" />
