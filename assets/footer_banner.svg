@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 800 120" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .footer-container {
+          background: linear-gradient(135deg, #0d1117 0%, #0a192f 50%, #112240 100%);
+          border-radius: 12px;
+          border: 1px solid rgba(100, 255, 218, 0.3);
+          padding: 28px;
+          text-align: center;
+          font-family: 'Fira Code', monospace, sans-serif;
+          color: #64ffda;
+          box-shadow: 0 8px 32px rgba(100, 255, 218, 0.15);
+        }
+        .footer-title {
+          font-size: 20px;
+          font-weight: 700;
+          letter-spacing: 1.5px;
+          text-transform: uppercase;
+          animation: glow 2s ease-in-out infinite alternate;
+        }
+        .footer-sub {
+          font-size: 13px;
+          color: #8892b0;
+          margin-top: 6px;
+        }
+        @keyframes glow {
+          0% { text-shadow: 0 0 5px rgba(100, 255, 218, 0.5); }
+          100% { text-shadow: 0 0 20px rgba(100, 255, 218, 1), 0 0 35px rgba(100, 255, 218, 0.6); }
+        }
+      </style>
+      <div class="footer-container">
+        <div class="footer-title">⚡ Innovating the Future with AI &amp; Automation ⚡</div>
+        <div class="footer-sub">Muhammad Majid Ali — BS AI Student @ COMSATS Islamabad</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

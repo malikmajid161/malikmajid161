@@ -190,4 +190,6 @@ I'm open to collaborating on:
 </p>
 
 <!-- INNOVATIVE ANIMATED FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,60:112240,100:1a1a2e&height=160&section=footer&text=⚡%20Innovating%20the%20Future%20with%20AI%20%26%20Automation%20⚡&fontSize=22&fontColor=64ffda&animation=twinkling&fontAlignY=65" />
+<p align="center">
+  <img src="./assets/footer_banner.svg" alt="Footer Banner" width="100%" />
+</p>
