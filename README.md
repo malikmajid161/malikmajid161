@@ -134,19 +134,30 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 
 ---
 
-## 📂 Portfolio Projects
+## 📌 Pinned Projects & Repositories
 
-| | Project | Stack | Repo |
-|---|---|---|---|
-| 🌾 | **AgroConnect** | YOLOv8 · FastAPI · React · TailwindCSS | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🤖 | **AutoApply AI** | Flask · Claude API · Selenium · SQLite | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🛡️ | **NIDS AetherGuard** | PyTorch · FastAPI · NSL-KDD · Chart.js | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🚗 | **Lane Detection AI** | UNet · OpenCV · PyTorch · Streamlit | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🅿️ | **Parking Monitor** | YOLOv8 · Flask · SocketIO | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🔍 | **Interview Forge** | Python · NLP · AI | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 💰 | **Expense Tracker** | Flutter · Dart · Supabase | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 📚 | **LibMaster** | Flutter · Dart · Hive | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🏗️ | **Optimill** | TypeScript · Next.js · B2B | [![Repo](https://img.shields.io/badge/GitHub-View-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+<p align="center">
+  <a href="https://github.com/malikmajid161/AgroConnect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikmajid161&repo=AgroConnect&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&icon_color=64ffda" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/malikmajid161/Expense-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikmajid161&repo=Expense-tracker&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&icon_color=64ffda" width="48%" />
+  </a>
+</p>
+
+<br/>
+
+| | Project | Key Stack | Description | Repo Link |
+|---|---|---|---|---|
+| 🌾 | **AgroConnect** | YOLOv8 · FastAPI · React | AI crop disease detection platform for farmers | [![Repo](https://img.shields.io/badge/GitHub-AgroConnect-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/AgroConnect) |
+| 💰 | **Expense Tracker** | Flutter · Supabase | Cross-platform personal finance & budget manager | [![Repo](https://img.shields.io/badge/GitHub-ExpenseTracker-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/Expense-tracker) |
+| 🤖 | **AutoApply AI** | Flask · Claude API · Selenium | Automated job application platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🛡️ | **NIDS AetherGuard** | PyTorch · FastAPI · NSL-KDD | Network intrusion detection ML system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🚗 | **Lane Detection AI** | UNet · OpenCV · PyTorch | Autonomous driving lane detection pipeline | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🅿️ | **Parking Monitor** | YOLOv8 · Flask · SocketIO | Real-time parking space occupancy monitor | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 📚 | **LibMaster** | Flutter · Hive | Offline digital library management system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🏗️ | **Optimill** | TypeScript · Next.js | B2B business optimization platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
 
 ---
 
