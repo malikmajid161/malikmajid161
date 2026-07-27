@@ -146,6 +146,11 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
   <img src="https://ghchart.rshah.org/64ffda/malikmajid161" width="100%" alt="Contribution Heatmap" />
 </p>
 
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/malikmajid161/malikmajid161/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
 ---
 
 ## 🤝 Collaboration & Contact
