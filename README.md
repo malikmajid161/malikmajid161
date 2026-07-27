@@ -139,19 +139,21 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=malikmajid161&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&ring_color=64ffda" />
+  <img height="180" src="https://github-readme-stats.demolab.com/api?username=malikmajid161&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&ring_color=64ffda" />
   &nbsp;
   <img height="180" src="https://streak-stats.demolab.com/?user=malikmajid161&theme=radical&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajid161&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=10" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=malikmajid161&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=10" />
 </p>
 
-<br/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area_color=0a192f&area=true&hide_border=true" width="100%" alt="3D Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/64ffda/malikmajid161" width="100%" alt="Contribution Heatmap" />
 </p>
 
 ---
