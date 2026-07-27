@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <em>「 BS AI Student building real AI solutions — from crop disease detection to job automation 」</em>
+  <em>「 BS AI Student building real-world AI systems — Computer Vision, Full-Stack AI & Intelligent Automation 」</em>
 </p>
 
 <!-- TYPING SVG — Herokuapp endpoint with clean encoding -->
