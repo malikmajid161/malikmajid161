@@ -177,6 +177,12 @@ Contact     : malikmajid5140@gmail.com
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff" width="100%" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
