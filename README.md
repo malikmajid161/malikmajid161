@@ -1,8 +1,4 @@
-<!-- ============================================================ -->
-<!--        MUHAMMAD MAJID ALI — ELITE GITHUB PROFILE README      -->
-<!-- ============================================================ -->
-
-<!-- ANIMATED CAPSULE HEADER — always loads -->
+<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,60:112240,100:1a1a2e&height=250&section=header&text=Muhammad%20Majid%20Ali&fontSize=65&fontColor=64ffda&animation=twinkling&fontAlignY=38&desc=BS%20AI%20Student%20%40%20COMSATS%20University%20Islamabad%2C%20Wah%20Campus&descAlignY=58&descSize=18&descColor=a8b2d8" />
 
 <h3 align="center">
@@ -13,13 +9,10 @@
   <em>「 BS AI Student building real-world AI systems — Computer Vision, Full-Stack AI & Intelligent Automation 」</em>
 </p>
 
-<!-- TYPING SVG — Herokuapp endpoint with clean encoding -->
+<!-- TYPING SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=800&height=45&lines=AgroConnect+--+AI+AgriTech+for+Pakistani+Farmers;YOLOv8+%7C+FastAPI+%7C+React+%7C+Flutter+Developer;Deep+Learning+%7C+Computer+Vision+%7C+LLM+Engineer;Network+Intrusion+Detection+%7C+AI+Security;Fiverr+Level+2+Freelancer+%7C+AI+%26+CAD+Expert;COMSATS+Wah+Campus+%7C+BS+AI+2023-27" alt="Typing SVG" />
 </p>
-
-<!-- RELIABLE ANIMATED DIVIDER — capsule render slice -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:64ffda&height=4&section=header" />
 
 <!-- BADGES -->
 <p align="center">
@@ -38,7 +31,7 @@
 
 ---
 
-## 👨💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 Name        : Muhammad Majid Ali
@@ -53,11 +46,9 @@ Contact     : malikmajid5140@gmail.com
 Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:64ffda,100:0d1117&height=4&section=footer" />
-
 ---
 
-## 🌾 Flagship — AgroConnect
+## 🌾 Flagship Project — AgroConnect
 
 > *AI-Powered AgriTech Platform for Pakistani Farmers*
 
@@ -65,13 +56,13 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 <tr><td width="55%" valign="top">
 
 **Core Features:**
-- 🔬 **Disease Detection** — YOLOv8 on merged PlantVillage + Wheat dataset
-- 🌿 **Multi-Crop** — 14 PlantVillage crops + Wheat disease classes unified
-- ⚡ **FastAPI Backend** — `/predict` `/health` `/classes` + Pydantic validation
-- 🎨 **Animated React UI** — Drag-drop, scan animation, top-5 confidence bars
-- 🏋️ **Colab Trained** — Merged Kaggle datasets · 30 epochs · YOLOv8s-cls
+- 🔬 **Disease Detection** — YOLOv8 trained on merged PlantVillage + Wheat dataset
+- 🌿 **Multi-Crop Support** — Unified 14 PlantVillage crops + Wheat disease classes
+- ⚡ **FastAPI Backend** — High-speed `/predict`, `/health`, `/classes` endpoints with Pydantic validation
+- 🎨 **Animated React UI** — Drag-and-drop uploads, real-time scanning animation & top-5 confidence meters
+- 🏋️ **Colab Pipeline** — 30 epochs training on merged Kaggle datasets (YOLOv8s-cls)
 
-**Stack:** `Python` · `YOLOv8` · `FastAPI` · `React` · `TailwindCSS` · `Framer Motion`
+**Tech Stack:** `Python` · `YOLOv8` · `FastAPI` · `React` · `TailwindCSS` · `Framer Motion`
 
 🔗 **[View Repository →](https://github.com/malikmajid161/AgroConnect)**
 
@@ -82,86 +73,70 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ├── 🐍 backend/
 │   ├── main.py      ← FastAPI + CORS
 │   ├── model.py     ← YOLOv8 wrapper
-│   └── schemas.py   ← Pydantic
+│   └── schemas.py   ← Pydantic schemas
 ├── ⚛️ frontend/
-│   ├── App.jsx      ← Animated UI
-│   └── predict.js   ← API layer
+│   ├── App.jsx      ← Animated Dashboard UI
+│   └── predict.js   ← API Layer
 └── 🤖 model/
-    ├── train.ipynb  ← Colab notebook
-    └── best.pt      ← Merged model
+    ├── train.ipynb  ← Google Colab notebook
+    └── best.pt      ← Fine-tuned model weights
 ```
 
 </td></tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:64ffda&height=4&section=header" />
-
 ---
 
 ## 🛠️ Technologies & Skills
 
-<!-- ROW 1: AI/ML -->
+<!-- AI & Data Science -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,bash,anaconda&theme=dark" />
 </p>
 
-<!-- ROW 2: Backend -->
+<!-- Backend & Web -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django,graphql,nginx&theme=dark" />
 </p>
 
-<!-- ROW 3: Frontend -->
+<!-- Frontend & Languages -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
 </p>
 
-<!-- ROW 4: Mobile & DB -->
+<!-- Mobile & Databases -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,mongodb,postgres,sqlite&theme=dark" />
 </p>
 
-<!-- ROW 5: DevOps & Tools -->
+<!-- DevOps & Tools -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,selenium,vscode,figma&theme=dark" />
 </p>
 
-<!-- ROW 6: Cloud & Other -->
+<!-- Cloud & Engineering -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,vercel,github,cpp,kotlin,matlab,autocad&theme=dark" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:64ffda,100:0d1117&height=4&section=footer" />
+---
+
+## 📂 Featured Projects
+
+| Project | Key Stack | Description | Repository |
+|---|---|---|---|
+| 🌾 **AgroConnect** | YOLOv8 · FastAPI · React | AI crop disease detection platform for farmers | [![Repo](https://img.shields.io/badge/GitHub-AgroConnect-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/AgroConnect) |
+| 💰 **Expense Tracker** | Flutter · Supabase | Cross-platform personal finance & budget manager | [![Repo](https://img.shields.io/badge/GitHub-Expense--Tracker-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/Expense-tracker) |
+| 🤖 **AutoApply AI** | Flask · Claude API · Selenium | Full automated job application platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🛡️ **NIDS AetherGuard** | PyTorch · FastAPI · NSL-KDD | Network intrusion detection ML system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🚗 **Lane Detection AI** | UNet · OpenCV · PyTorch | Autonomous driving lane detection pipeline | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🅿️ **Parking Monitor** | YOLOv8 · Flask · SocketIO | Real-time parking space occupancy monitor | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 📚 **LibMaster** | Flutter · Hive | Offline digital library management system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
+| 🏗️ **Optimill** | TypeScript · Next.js | B2B business optimization platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
 
 ---
 
-## 📌 Pinned Projects & Repositories
-
-<p align="center">
-  <a href="https://github.com/malikmajid161/AgroConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikmajid161&repo=AgroConnect&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&icon_color=64ffda" width="48%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/malikmajid161/Expense-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikmajid161&repo=Expense-tracker&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&icon_color=64ffda" width="48%" />
-  </a>
-</p>
-
-<br/>
-
-| | Project | Key Stack | Description | Repo Link |
-|---|---|---|---|---|
-| 🌾 | **AgroConnect** | YOLOv8 · FastAPI · React | AI crop disease detection platform for farmers | [![Repo](https://img.shields.io/badge/GitHub-AgroConnect-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/AgroConnect) |
-| 💰 | **Expense Tracker** | Flutter · Supabase | Cross-platform personal finance & budget manager | [![Repo](https://img.shields.io/badge/GitHub-ExpenseTracker-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161/Expense-tracker) |
-| 🤖 | **AutoApply AI** | Flask · Claude API · Selenium | Automated job application platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🛡️ | **NIDS AetherGuard** | PyTorch · FastAPI · NSL-KDD | Network intrusion detection ML system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🚗 | **Lane Detection AI** | UNet · OpenCV · PyTorch | Autonomous driving lane detection pipeline | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🅿️ | **Parking Monitor** | YOLOv8 · Flask · SocketIO | Real-time parking space occupancy monitor | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 📚 | **LibMaster** | Flutter · Hive | Offline digital library management system | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-| 🏗️ | **Optimill** | TypeScript · Next.js | B2B business optimization platform | [![Repo](https://img.shields.io/badge/GitHub-View--Repo-64ffda?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/malikmajid161) |
-
----
-
-## 📊 Vital Statistics
+## 📊 Analytics & Activity
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=malikmajid161&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&ring_color=64ffda" />
@@ -173,50 +148,11 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajid161&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=10" />
 </p>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malikmajid161&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:64ffda&height=4&section=header" />
-
----
-
-## 📈 Contribution Activity
-
-<!-- Activity Graph — most reliable -->
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=6" />
-</p>
-
-<!-- Heatmap calendar in teal — zero setup, always works -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/64ffda/malikmajid161" width="100%" alt="Contribution Heatmap" />
-</p>
-
-<!-- Profile summary cards — full width detail -->
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikmajid161&theme=tokyonight" />
-</p>
-
-<!-- Summary mini cards row -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikmajid161&theme=tokyonight" width="32%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikmajid161&theme=tokyonight" width="32%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikmajid161&theme=tokyonight&utcOffset=5" width="32%" />
-</p>
-
-<!-- 3D contribution calendar — isometric view -->
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=malikmajid161&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area_color=0a192f&area=true&hide_border=true" width="100%" alt="3D Contribution Calendar" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:64ffda,100:0d1117&height=4&section=footer" />
 
 ---
 
@@ -224,8 +160,8 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 
 I'm open to collaborating on:
 - 🌾 AI/ML web apps & AgriTech solutions
-- 🤖 Computer Vision & YOLOv8 projects
-- 🧠 LLM integration & automation tools
+- 🤖 Computer Vision & YOLOv8 pipelines
+- 🧠 LLM integration & automation systems
 - 📱 Full-stack & Flutter mobile apps
 
 <p align="center">
@@ -249,7 +185,7 @@ I'm open to collaborating on:
 <br/>
 
 <p align="center">
-  <em>⚡ Building real AI for real problems — Star ⭐ my repos if they helped you!</em>
+  <em>⚡ Building real-world AI for real-world problems — Star ⭐ my repos if they helped you!</em>
 </p>
 
 <!-- FOOTER WAVE -->
