@@ -139,13 +139,13 @@ Portfolio   : professional-portfolio-wheat-gamma.vercel.app
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.demolab.com/api?username=malikmajid161&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&ring_color=64ffda" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=malikmajid161&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=malikmajid161&theme=radical&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b2" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=malikmajid161&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=malikmajid161&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajid161&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
